@@ -1,0 +1,35 @@
+{
+  "name": "aula2ppiadssemi",
+  "version": "1.0.0",
+  "description": "Atividade 2- Manipulação de dados de formulário",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biellopes1/Aula2PPIADSSemi.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "HTTP",
+    "GET",
+    "progamação",
+    "produto",
+    "informatica",
+    "servidor"
+  ],
+  "author": "Gabriel Lopes Matias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biellopes1/Aula2PPIADSSemi/issues"
+  },
+  "homepage": "https://github.com/Biellopes1/Aula2PPIADSSemi#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {}
+}
